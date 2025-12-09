@@ -56,7 +56,7 @@ Gradient Ascent就讲了这两页PPT
 
 ### 相关题目
 
-Gradient Ascent往年没有出过，Gradient Descent的题目已经在前一小节战士。
+Gradient Ascent往年没有出过，Gradient Descent的题目已经在前一小节展示。
 
 ## Overfitting Problem
 
