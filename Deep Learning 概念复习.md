@@ -64,6 +64,8 @@ Gradient Ascent往年没有出过，Gradient Descent的题目已经在前一小�
 
 ![image-20251210002051138](./Deep Learning 概念复习.assets/image-20251210002051138.png)
 
+**Definition** Overfitting is a problem where a machine learning model learns to **memorize** the training data rather than **generalizing** from it. This typically happens when the model is overly complicated (e.g., having too many layers or neurons) relative to the amount of data available
+
 ![image-20251209214407156](./Deep Learning 概念复习.assets/image-20251209214407156.png)
 
 ![image-20251209214618726](./Deep Learning 概念复习.assets/image-20251209214618726.png)
@@ -124,11 +126,25 @@ Gradient Ascent往年没有出过，Gradient Descent的题目已经在前一小�
 
 ![image-20251210003730672](./Deep Learning 概念复习.assets/image-20251210003730672.png)
 
+Problems in GAN
+
+1. Model collapse
+2. Non-converage
+3. distorted figure
+
 ## Word embedding : CBOW, Skip-gram, Elmo
 
 ### 知识点
 
 ![image-20251209234049760](./Deep Learning 概念复习.assets/image-20251209234049760.png)
+
+Word Embedding transform words into Word Vectors which encode similarity, difference, semantic relationship between words and the context of different words as used by human.
+
+![image-20251210085807050](./Deep Learning 概念复习.assets/image-20251210085807050.png)
+
+重点看CBOW，讲的比较多
+
+ELMo is a computational model that generates word vectors on run time.
 
 ### 相关题目
 
@@ -167,6 +183,8 @@ LoRA不考
 ### 知识点
 
 ![image-20251209234934135](./Deep Learning 概念复习.assets/image-20251209234934135.png)
+
+**Prompt engineering** is the process of carefully designing the prompts to generate a specific output.
 
 ### 相关题目
 
